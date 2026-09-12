@@ -1,9 +1,9 @@
 # Nossa Casa
 
-Aplicativo familiar de controle financeiro conectado ao Supabase.
+Versão mobile com navegação sem rolagem horizontal, atualização de status por toque duplo e fluxo de convite familiar.
 
-## Backend
-Supabase project: satkulchimdnnczsdqoh
-
-## Deploy
-Projeto estático. Pode ser publicado diretamente no Vercel, Netlify, GitHub Pages ou qualquer host de arquivos estáticos.
+## Convites
+- O usuário identifica seu próprio card com **Sou eu**.
+- Outros adultos passam a exibir **Enviar convite**.
+- O convite gera um link válido por 7 dias e um e-mail pronto para envio.
+- O convidado entra ou cria a conta com o mesmo e-mail do convite e é vinculado à família.

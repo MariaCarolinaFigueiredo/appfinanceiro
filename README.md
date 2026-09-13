@@ -1,9 +1,3 @@
-# Nossa Casa
+# Nossa Casa — desktop restaurado + mobile responsivo
 
-Versão mobile com navegação sem rolagem horizontal, atualização de status por toque duplo e fluxo de convite familiar.
-
-## Convites
-- O usuário identifica seu próprio card com **Sou eu**.
-- Outros adultos passam a exibir **Enviar convite**.
-- O convite gera um link válido por 7 dias e um e-mail pronto para envio.
-- O convidado entra ou cria a conta com o mesmo e-mail do convite e é vinculado à família.
+Esta versão preserva a arquitetura visual aprovada no desktop (sidebar esquerda, área central e painel direito com Renda & Família e Consultor Financeiro) e mantém os ajustes funcionais recentes: mobile sem rolagem horizontal, confirmação de pagamento por duplo toque, convites de integrantes e projeção mensal em dropdowns sem coluna de status.
